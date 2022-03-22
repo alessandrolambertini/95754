@@ -2,14 +2,23 @@
 
 ## Panoramica di applicazioni informatiche nelle tecniche per l’edilizia e il territorio
 
-- [GIS](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) sistemi informativi territoriali a scala urbana
+- [GIS](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) sistemi informativi territoriali a scala urbana, [la storia del primo GIS](https://www.ph.ucla.edu/epi/snow/snowbook0b.html)
 - [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) Well-Known Text: geometrie vettoriali su mappa, [esempio applicativo](https://clydedacruz.github.io/openstreetmap-wkt-playground/)
 - [LOD](https://filipbiljecki.com/publications/2014_ceus_lod_formalisation.pdf) Level Of Detail
 - [BIM](https://www.autodesk.it/solutions/bim/benefits-of-bim) Building Information Modeling
 - [Digital Twin](https://constructible.trimble.com/construction-industry/what-are-digital-twins) i gemelli digitali nell'edilizia
 - [AR](https://sitevision.trimble.com) Realtà Aumentata
 - [VR](https://www.acca.it/software-realta-virtuale) Realtà Virtuale
-- 3D print ...
+- [3D print](https://www.3dwasp.com/en/3d-printing-architecture/) dal digitale al reale
+
+## Dati e metadati
+
+- [Open Data](https://opendatahandbook.org) dati liberi
+- [CC](https://creativecommons.org/licenses/) licenze Creative Commons
+- [5star](https://5stardata.info/en/) la classifica degli Open Data
+- [EC](https://digital-strategy.ec.europa.eu/en/policies/open-data) la strategia Europea sugli Open Data
+- [INSPIRE](https://inspire.ec.europa.eu) la direttiva Europea su dati e metadati geografici
+- [OGC](https://www.ogc.org/docs/is) standard open per dati territoriali
 
 ## Gestione di dati
 
