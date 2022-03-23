@@ -45,3 +45,11 @@
 - [FFmpeg](https://ffmpeg.org) record, convert and stream audio and video
 - [GIMP](https://www.gimp.org) cross-platform image editor
 - Blender ...
+
+## Gestione di dati strutturati
+
+- [LibreOffice](https://www.libreoffice.org) Office Open Source
+- [Calc](https://books.libreoffice.org/en/CG72/CG7201-Introduction.html) Guida introduttiva alle funzioni dei fogli di calcolo
+- Database: [DB Browser for SQLite](https://sqlitebrowser.org) & [DBeaver](https://dbeaver.io)
+- [OSM](https://www.openstreetmap.org/) Il più ampio database di dati geografici
+- [Domande?](https://stackoverflow.com)
