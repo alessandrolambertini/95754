@@ -20,7 +20,17 @@
 - [INSPIRE](https://inspire.ec.europa.eu) la direttiva Europea su dati e metadati geografici
 - [OGC](https://www.ogc.org/docs/is) standard open per dati territoriali
 
-## Gestione di dati
+### Alcuni portali Open Data
+
+- [Comune di Bologna](https://opendata.comune.bologna.it)
+- [Regione Emilia-Romagna](https://dati.emilia-romagna.it/)
+- [Agenzia per l'Italia Digitale](https://dati.gov.it)
+- [Cartografia catastale](https://www.agenziaentrate.gov.it/portale/it/web/guest/schede/fabbricatiterreni/consultazione-cartografia-catastale/servizio-consultazione-cartografia)
+- [Portale europeo dei dati](https://data.europa.eu/en)
+- [OpenTopography](https://opentopography.org)
+- [OpenHeritage3D](https://openheritage3d.org)
+
+## Conservazione dei dati
 
 - [HDD vs SSD](https://www.sandisk.com/content/dam/sandisk-main/en_us/assets/resources/enterprise/infographics/how-do-ssds-stack-up-against-hdds.pdf) hard-disk o solid-state drive?
 - [Backup](https://www.acronis.com/en-us/articles/backup-rule/) la regola 3-2-1
