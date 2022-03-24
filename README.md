@@ -24,6 +24,7 @@
 
 - [Comune di Bologna](https://opendata.comune.bologna.it)
 - [Regione Emilia-Romagna](https://dati.emilia-romagna.it/)
+- [Trasporto Passeggeri Emilia-Romagna](https://solweb.tper.it/web/tools/open-data/open-data.aspx)
 - [Agenzia per l'Italia Digitale](https://dati.gov.it)
 - [Cartografia catastale](https://www.agenziaentrate.gov.it/portale/it/web/guest/schede/fabbricatiterreni/consultazione-cartografia-catastale/servizio-consultazione-cartografia)
 - [Portale europeo dei dati](https://data.europa.eu/en)
