@@ -8,7 +8,7 @@
 - [BIM](https://www.autodesk.it/solutions/bim/benefits-of-bim) Building Information Modeling
 - [Digital Twin](https://constructible.trimble.com/construction-industry/what-are-digital-twins) i gemelli digitali nell'edilizia
 - [AR](https://sitevision.trimble.com) Realtà Aumentata
-- [VR](https://www.acca.it/software-realta-virtuale) Realtà Virtuale
+- [VR](https://www.acca.it/software-realta-virtuale) Realtà Virtuale ed [esempi applicativi](https://youtu.be/8pi-s0n6yfs)
 - [3D print](https://www.3dwasp.com/en/3d-printing-architecture/) dal digitale al reale
 
 ## Dati e metadati
