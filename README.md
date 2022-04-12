@@ -15,7 +15,7 @@
 
 - [Open Data](https://opendatahandbook.org) dati liberi
 - [CC](https://creativecommons.org/licenses/) licenze Creative Commons
-- [5star](https://5stardata.info/en/) la classifica degli Open Data
+- [5star](https://5stardata.info/en/) la classifica degli Open Data > [LOD Cloud](https://lod-cloud.net/)
 - [EC](https://digital-strategy.ec.europa.eu/en/policies/open-data) la strategia Europea sugli Open Data
 - [INSPIRE](https://inspire.ec.europa.eu) la direttiva Europea su dati e metadati geografici
 - [OGC](https://www.ogc.org/docs/is) standard open per dati territoriali
