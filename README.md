@@ -31,6 +31,23 @@
 - [OpenTopography](https://opentopography.org)
 - [OpenHeritage3D](https://openheritage3d.org)
 
+## Gestione di dati strutturati
+
+- [LibreOffice](https://www.libreoffice.org) Office Open Source
+- [Calc](https://books.libreoffice.org/en/CG72/CG7201-Introduction.html) Guida introduttiva alle funzioni dei fogli di calcolo
+- [Aritmetica in virgola mobile](https://docs.microsoft.com/en-us/office/troubleshoot/excel/floating-point-arithmetic-inaccurate-result) Attenzione! Può dare risultati imprecisi nei fogli di calcolo!
+- Database: [DB Browser for SQLite](https://sqlitebrowser.org) & [DBeaver](https://dbeaver.io)
+- [OSM](https://www.openstreetmap.org/) Il più vasto database di dati geografici
+- [Domande?](https://stackoverflow.com)
+
+## Gestione di immagini
+
+- [ImageMagick](https://imagemagick.org) creare, modificare, comporre o convertire immagini digitali
+- [GIMP](https://www.gimp.org) editor di immagini multipiattaforma
+- [ExifTool](https://exiftool.org) leggere, scrivere e modificare le metadati
+- [FFmpeg](https://ffmpeg.org) registrare, convertire e trasmettere audio e video
+- [Blender](https://www.blender.org/features/) Rendering, modellazione 3D, simulazioni e animazioni
+
 ## Conservazione dei dati
 
 - [HDD vs SSD](https://www.sandisk.com/content/dam/sandisk-main/en_us/assets/resources/enterprise/infographics/how-do-ssds-stack-up-against-hdds.pdf) hard-disk o solid-state drive?
@@ -39,18 +56,6 @@
 - [Cloud](https://thestack.technology/ovhcloud-fire-strasbourg/) è sicuro al 100%?
 - [Hash](https://www.gnu.org/software/emacs/manual/html_node/elisp/Checksum_002fHash.html) cryptographic hash o checksum
 
-## Gestione di immagini
 
-- [ExifTool](https://exiftool.org) read, write and edit meta information
-- [ImageMagick](https://imagemagick.org) create, edit, compose, or convert digital images
-- [FFmpeg](https://ffmpeg.org) record, convert and stream audio and video
-- [GIMP](https://www.gimp.org) cross-platform image editor
-- Blender ...
 
-## Gestione di dati strutturati
 
-- [LibreOffice](https://www.libreoffice.org) Office Open Source
-- [Calc](https://books.libreoffice.org/en/CG72/CG7201-Introduction.html) Guida introduttiva alle funzioni dei fogli di calcolo
-- Database: [DB Browser for SQLite](https://sqlitebrowser.org) & [DBeaver](https://dbeaver.io)
-- [OSM](https://www.openstreetmap.org/) Il più ampio database di dati geografici
-- [Domande?](https://stackoverflow.com)
