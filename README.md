@@ -37,6 +37,7 @@
 - [ODF](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office) Open Document Format
 - [Calc](https://books.libreoffice.org/en/CG72/CG7201-Introduction.html) Guida introduttiva alle funzioni dei fogli di calcolo
 - [Dataset](http://www.solaritaly.enea.it/TabelleRad/TabelleRadIt.php) Tabelle della radiazione solare
+- [Training](https://github.com/tdf/training-protocol/blob/master/task-based-training-program.md) Esempi applicativi per LibreOffice
 - [Haversine](https://spatialthoughts.com/2013/07/06/calculate-distance-spreadsheet/) Calcolo della distanza tra coordinate
 - [Aritmetica in virgola mobile](https://docs.microsoft.com/en-us/office/troubleshoot/excel/floating-point-arithmetic-inaccurate-result) Attenzione! Può dare risultati imprecisi nei fogli di calcolo!
 - Database: [DB Browser for SQLite](https://sqlitebrowser.org) & [DBeaver](https://dbeaver.io)
