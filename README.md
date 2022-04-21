@@ -36,7 +36,8 @@
 - [LibreOffice](https://www.libreoffice.org) Office Open Source
 - [ODF](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office) Open Document Format
 - [Calc](https://books.libreoffice.org/en/CG72/CG7201-Introduction.html) Guida introduttiva alle funzioni dei fogli di calcolo
-- [Dataset](http://www.solaritaly.enea.it/TabelleRad/TabelleRadIt.php) Tabelle della radiazione solare 
+- [Dataset](http://www.solaritaly.enea.it/TabelleRad/TabelleRadIt.php) Tabelle della radiazione solare
+- [Haversine](https://spatialthoughts.com/2013/07/06/calculate-distance-spreadsheet/) Calcolo della distanza tra coordinate
 - [Aritmetica in virgola mobile](https://docs.microsoft.com/en-us/office/troubleshoot/excel/floating-point-arithmetic-inaccurate-result) Attenzione! Può dare risultati imprecisi nei fogli di calcolo!
 - Database: [DB Browser for SQLite](https://sqlitebrowser.org) & [DBeaver](https://dbeaver.io)
 - [OSM](https://www.openstreetmap.org/) Il più vasto database di dati geografici
