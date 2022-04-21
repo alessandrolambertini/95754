@@ -34,6 +34,7 @@
 ## Gestione di dati strutturati
 
 - [LibreOffice](https://www.libreoffice.org) Office Open Source
+- [ODF](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office) Open Document Format
 - [Calc](https://books.libreoffice.org/en/CG72/CG7201-Introduction.html) Guida introduttiva alle funzioni dei fogli di calcolo
 - [Aritmetica in virgola mobile](https://docs.microsoft.com/en-us/office/troubleshoot/excel/floating-point-arithmetic-inaccurate-result) Attenzione! Può dare risultati imprecisi nei fogli di calcolo!
 - Database: [DB Browser for SQLite](https://sqlitebrowser.org) & [DBeaver](https://dbeaver.io)
