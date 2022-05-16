@@ -41,6 +41,9 @@
 - [Haversine](https://spatialthoughts.com/2013/07/06/calculate-distance-spreadsheet/) Calcolo della distanza tra coordinate
 - [Aritmetica in virgola mobile](https://docs.microsoft.com/en-us/office/troubleshoot/excel/floating-point-arithmetic-inaccurate-result) Attenzione! Può dare risultati imprecisi nei fogli di calcolo!
 - Database: [DB Browser for SQLite](https://sqlitebrowser.org) & [DBeaver](https://dbeaver.io)
+- Database SQL (relazionali) e [NoSQL](https://aws.amazon.com/it/nosql/)
+- Proprietà delle transazioni in Database: [ACID](https://www.ibm.com/docs/en/cics-ts/5.4?topic=processing-acid-properties-transactions)
+- [Database](https://github.com/dpmcmlxxvi/SpatiaLiteCpp/raw/master/examples/spatialite/test-2.3.sqlite) geografico di esempio 
 - [OSM](https://www.openstreetmap.org/) Il più vasto database di dati geografici
 - [Domande?](https://stackoverflow.com)
 
