@@ -54,7 +54,7 @@
 - [NAS](https://www.redhat.com/en/topics/data-storage/network-attached-storage) Network Attached Storage
 - Servizi di [Cloud Computing](https://www.redhat.com/it/topics/cloud-computing/iaas-vs-paas-vs-saas) e potenziali [criticità](https://thestack.technology/ovhcloud-fire-strasbourg/)
 - Cosa sono i [Big Data](https://www.oracle.com/it/big-data/what-is-big-data/)?
-- [Intelligenza Artificiale](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
+- Analizzare grandi volumi di dati con l'[Intelligenza Artificiale](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 - [Hash](https://www.gnu.org/software/emacs/manual/html_node/elisp/Checksum_002fHash.html) cryptographic hash o [checksum](https://portal.nutanix.com/page/documents/kbs/details?targetId=kA07V000000LWYqSAO)
 
 ## Gestione di immagini
