@@ -47,6 +47,16 @@
 - [OSM](https://www.openstreetmap.org/) Il più vasto database di dati geografici
 - [Domande?](https://stackoverflow.com)
 
+## Conservazione dei dati
+
+- [HDD vs SSD](https://www.sandisk.com/content/dam/sandisk-main/en_us/assets/resources/enterprise/infographics/how-do-ssds-stack-up-against-hdds.pdf) hard-disk o solid-state drive?
+- [Backup](https://www.acronis.com/en-us/articles/backup-rule/) la regola 3-2-1
+- [NAS](https://www.redhat.com/en/topics/data-storage/network-attached-storage) Network Attached Storage
+- Servizi di [Cloud Computing](https://www.redhat.com/it/topics/cloud-computing/iaas-vs-paas-vs-saas) e potenziali [criticità](https://thestack.technology/ovhcloud-fire-strasbourg/)
+- Cosa sono i [Big Data](https://www.oracle.com/it/big-data/what-is-big-data/)?
+- [Intelligenza Artificiale](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
+- [Hash](https://www.gnu.org/software/emacs/manual/html_node/elisp/Checksum_002fHash.html) cryptographic hash o [checksum](https://portal.nutanix.com/page/documents/kbs/details?targetId=kA07V000000LWYqSAO)
+
 ## Gestione di immagini
 
 - [ImageMagick](https://imagemagick.org) creare, modificare, comporre o convertire immagini digitali
@@ -55,13 +65,6 @@
 - [FFmpeg](https://ffmpeg.org) registrare, convertire e trasmettere audio e video
 - [Blender](https://www.blender.org/features/) Rendering, modellazione 3D, simulazioni e animazioni
 
-## Conservazione dei dati
-
-- [HDD vs SSD](https://www.sandisk.com/content/dam/sandisk-main/en_us/assets/resources/enterprise/infographics/how-do-ssds-stack-up-against-hdds.pdf) hard-disk o solid-state drive?
-- [Backup](https://www.acronis.com/en-us/articles/backup-rule/) la regola 3-2-1
-- [NAS](https://www.redhat.com/en/topics/data-storage/network-attached-storage) Network Attached Storage
-- [Cloud](https://thestack.technology/ovhcloud-fire-strasbourg/) è sicuro al 100%?
-- [Hash](https://www.gnu.org/software/emacs/manual/html_node/elisp/Checksum_002fHash.html) cryptographic hash o checksum
 
 
 
