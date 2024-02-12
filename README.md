@@ -1,5 +1,12 @@
 # 95754
 
+[LABORATORIO DI INFORMATICA P - Laurea in Tecniche per l'Edilizia e il Territorio](https://corsi.unibo.it/laurea/TecnicheEdiliziaTerritorio/insegnamenti/piano/2023/6008/000/000/2023)
+
+## Concetti base dell'informatica
+- a
+- b
+- c
+
 ## Panoramica di applicazioni informatiche nelle tecniche per l’edilizia e il territorio
 
 - [GIS](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) sistemi informativi territoriali a scala urbana, [la storia del primo GIS](https://www.ph.ucla.edu/epi/snow/snowbook0b.html)
