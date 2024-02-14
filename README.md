@@ -3,9 +3,12 @@
 [LABORATORIO DI INFORMATICA P - Laurea in Tecniche per l'Edilizia e il Territorio](https://corsi.unibo.it/laurea/TecnicheEdiliziaTerritorio/insegnamenti/piano/2023/6008/000/000/2023)
 
 ## Concetti base dell'informatica
-- a
-- b
-- c
+- Hardware: [Architettura di von Neumann](https://commons.wikimedia.org/wiki/File:Von_Neumann.gif), [Legge di Moore](https://www.ilpost.it/2015/04/15/legge-moore-spiegazione-10-esempi/), [Supercomputing](https://www.cineca.it/en/our-activities/data-center/hpc-infrastructure/leonardo)
+- Software: [Sistemi Operativi](https://it.wikipedia.org/wiki/Lista_di_sistemi_operativi), [bit & byte](https://www.youmath.it/domande-a-risposte/view/6866-bit-byte.html)
+- Reti: [le prime reti](https://www.garr.it/it/infrastrutture/rete-nazionale/storia-della-rete-garr), [termini e architetture](https://www.ibm.com/it-it/topics/networking), [la velocità](https://www.speedtest.net), [Mbps vs. MBps](https://www.youmath.it/lezioni/fisica/unita-di-misura/unita-di-misura-informatiche/3694-mbps-megabit-al-secondo.html)
+- Dati: [quantità](https://en.wikipedia.org/wiki/Wikipedia:Statistics), [ricerca avanzata](https://www.google.com/advanced_search), [alternative](https://duckduckgo.com/), [archivi](https://archive.org/about/)
+
+[Feedback](https://forms.gle/ZG8LYyuzHJE4g3rZ8)
 
 ## Panoramica di applicazioni informatiche nelle tecniche per l’edilizia e il territorio
 
