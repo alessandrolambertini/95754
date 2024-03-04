@@ -4,7 +4,7 @@
 
 ## Concetti base dell'informatica
 - Hardware: [Architettura di von Neumann](https://commons.wikimedia.org/wiki/File:Von_Neumann.gif), [Legge di Moore](https://www.ilpost.it/2015/04/15/legge-moore-spiegazione-10-esempi/), [Supercomputing](https://www.cineca.it/en/our-activities/data-center/hpc-infrastructure/leonardo)
-- Software: [bit & byte](https://www.youmath.it/domande-a-risposte/view/6866-bit-byte.html), [programmazione](https://www.html.it/approfondimenti/linguaggi-di-programmazione-piu-usati/), [Sistemi Operativi](https://it.wikipedia.org/wiki/Lista_di_sistemi_operativi), [software libero](https://www.gnu.org/philosophy/philosophy.it.html) 
+- Software: [bit & byte](https://www.youmath.it/domande-a-risposte/view/6866-bit-byte.html), [programmazione](https://www.html.it/approfondimenti/linguaggi-di-programmazione-piu-usati/), [Sistemi Operativi](https://it.wikipedia.org/wiki/Lista_di_sistemi_operativi), [Macchine Virtuali](https://www.virtualbox.org/manual/ch01.html#virt-why-useful), [software libero](https://www.gnu.org/philosophy/philosophy.it.html) 
 - Reti: [le prime reti](https://www.garr.it/it/infrastrutture/rete-nazionale/storia-della-rete-garr), [termini e architetture](https://www.ibm.com/it-it/topics/networking), [la velocità](https://www.speedtest.net), [Mbps vs. MBps](https://www.youmath.it/lezioni/fisica/unita-di-misura/unita-di-misura-informatiche/3694-mbps-megabit-al-secondo.html)
 - Dati: [quantità](https://en.wikipedia.org/wiki/Wikipedia:Statistics), [ricerca avanzata](https://www.google.com/advanced_search), [alternative di ricerca](https://duckduckgo.com/), [archivio del web](https://archive.org/about/)
 
