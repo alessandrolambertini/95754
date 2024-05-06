@@ -53,7 +53,7 @@
 - Database: [DB Browser for SQLite](https://sqlitebrowser.org) & [DBeaver](https://dbeaver.io)
 - Database SQL (relazionali) e [NoSQL](https://aws.amazon.com/it/nosql/)
 - Proprietà delle transazioni in Database: [ACID](https://www.ibm.com/docs/en/cics-ts/5.4?topic=processing-acid-properties-transactions)
-- [Database](https://github.com/alessandrolambertini/95754/raw/main/test-2.3.sqlite) geografico di esempio 
+- [Database](https://github.com/alessandrolambertini/95754/raw/main/test-2.3.sqlite) geografico di esempio e [CSV](https://data.europa.eu/data/datasets/data_airbase-the-european-air-quality-database-1?locale=it) per join dati
 - [OSM](https://www.openstreetmap.org/) Il più vasto database di dati geografici
 - [Domande?](https://stackoverflow.com)
 
